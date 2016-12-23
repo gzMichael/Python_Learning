@@ -1,2 +1,3 @@
 # Python_Learning
-Exercise files for <<Learn Python The Hard Way>>
+
+Exercise files for "Learn Python The Hard Way"
