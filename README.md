@@ -1,2 +1,2 @@
 # Python_Learning
-Python Learning for Openmind
+Here are the exercise files for 《Learn Python The Hard Way》 
